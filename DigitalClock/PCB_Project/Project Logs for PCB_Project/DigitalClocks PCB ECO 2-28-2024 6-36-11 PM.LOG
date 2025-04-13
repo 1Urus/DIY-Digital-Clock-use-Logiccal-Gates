@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=1-12B Pin=IC2-7
+Added Pin To Net: NetName=1-12C Pin=IC3-7
+Added Pin To Net: NetName=1-12B Pin=IC8-12
+Added Pin To Net: NetName=1-12C Pin=IC9-12
+Added Room: Name=SDNL
